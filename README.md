@@ -1,5 +1,7 @@
 # caddy-cloudflare
 
+[![CI](https://github.com/ljishen/caddy-cloudflare/actions/workflows/main.yml/badge.svg)](https://github.com/ljishen/caddy-cloudflare/actions/workflows/main.yml)
+
 Caddy with Cloudflare module
 
 
